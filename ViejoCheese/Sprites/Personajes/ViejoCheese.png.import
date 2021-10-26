@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ViejoCheese.png-56e53c7b7641e94ff2109d74afcefafd.stex"
+path="res://.import/viejocheese.png-3142ab21db2007f0aa0d6cbb54302775.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Personajes/ViejoCheese.png"
-dest_files=[ "res://.import/ViejoCheese.png-56e53c7b7641e94ff2109d74afcefafd.stex" ]
+source_file="res://Sprites/Personajes/viejocheese.png"
+dest_files=[ "res://.import/viejocheese.png-3142ab21db2007f0aa0d6cbb54302775.stex" ]
 
 [params]
 
